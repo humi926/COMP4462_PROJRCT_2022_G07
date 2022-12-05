@@ -1,6 +1,6 @@
 # CITY DASHBOARD - 2020 Road Traffic Accident in HK
 
-Github repository for COMP4462 project group 4.
+Github repository for COMP4462 project (Group 4).
 
 ## Group members
 
