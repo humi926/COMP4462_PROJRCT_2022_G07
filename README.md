@@ -18,10 +18,12 @@ Github repository for COMP4462 project (Group 4).
 #### FUNG Ho Ching
 * Line chart - Pedestrians Casualties 2020
 * Line chart - Pedestrians Casualties 2020 by population
+* Website planning and video
     #### **Tools: Tableau**
 
 #### LAM Humi
 * Treemap - Driver Contributory Factor 2020 (Filter by Severity)
+* Website planning
     #### **Tools: Google Colab & Plotly**
 
 #### LEUNG Chun Kit
@@ -33,4 +35,5 @@ Github repository for COMP4462 project (Group 4).
 * preprocessing data with cpp & google map api
 * Spacial visuallization - combined map of count of accidents on districts and roads
 * Spacial visuallization - number of accidents and percentage of severity cases in each district & main roads
+* Website planning
     #### **Tools: Tableau & cpp & google map api**
